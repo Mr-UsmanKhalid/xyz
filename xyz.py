@@ -6,3 +6,6 @@ def another_function():
 
 def yet_another_function():
     pass
+
+def final_function():
+    pass
